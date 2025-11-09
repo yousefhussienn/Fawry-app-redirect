@@ -14,7 +14,9 @@ The page automatically redirects users to the correct app store (Google Play or 
 ---
 
 ## 🚀 Live Demo
-👉 [View on GitHub Pages](https://yousefhussien727.github.io/fawry-app-redirect)  
+👉 [View on GitHub Pages](https://yousefhussienn.github.io/Fawry-app-redirect/redirect.html?code=TUB)
+
+> *Try changing the code value in link (ex. code=QNB)*
 
 ---
 
